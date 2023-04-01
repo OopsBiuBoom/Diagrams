@@ -1,4 +1,4 @@
-<mxfile modified="2023-04-01T08:20:31.610Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Ekn_CNbqp2z91chgjILv" version="21.1.2" type="github">
+<mxfile modified="2023-04-01T08:20:42.321Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0PZPARiAzerZOnr3xQaR" version="21.1.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2731" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -145,9 +145,6 @@
           <mxGeometry x="-0.0542" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MKuDX0yQ5RoXG2ArvQaH-1" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="270" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MKuDX0yQ5RoXG2ArvQaH-3" value="布局：软路由r2s可放在任何路由或光猫附近。它的作用是处理需要特殊处理的数据，处理完成后再出门。&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;verticalAlign=bottom;spacingTop=0;spacingBottom=0;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="230" height="120" as="geometry" />
